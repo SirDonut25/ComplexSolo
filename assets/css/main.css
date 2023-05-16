@@ -1925,10 +1925,10 @@ input, select, textarea {
 			}
 
 			.main.style1 > .content {
-				-moz-transition: opacity 10s ease;
-				-webkit-transition: opacity 10s ease;
-				-ms-transition: opacity 10s ease;
-				transition: opacity 10s ease;
+				-moz-transition: opacity 3s ease;
+				-webkit-transition: opacity 3s ease;
+				-ms-transition: opacity 3s ease;
+				transition: opacity 3s ease;
 				-moz-transform: translateZ(0);
 				-webkit-transform: translateZ(0);
 				-ms-transform: translateZ(0);
